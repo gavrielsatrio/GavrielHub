@@ -1,3 +1,3 @@
 # GavrielHub
-Gavriel's Repository
+XI TKJ 2 (11)
 # Ini tambahan setelah di-clone
