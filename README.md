@@ -1,3 +1,6 @@
 # GavrielHub
-XI TKJ 2 (11)
-# Ini tambahan setelah di-clone
+
+Hello, my name is Gavriel Satrio Widjaya.
+I'm from Indonesia.
+
+Nice to meet you
